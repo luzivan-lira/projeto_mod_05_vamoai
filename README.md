@@ -18,7 +18,7 @@ Analisamos com base nesses dados as plataformas Spotify, NetFlix e Google Maps.
 - [Google Maps](https://www.google.com/maps)
 
 
-## ** Analise dos Dados**
+## **Analise dos Dados**
 
 O Brasil é os pais que mais passa tempo em aplicativos, dado levantado pela APP Annie agencia focado em análise do mercado Mobile, esse estudo foi divulgado exclusivamente pela Forbes. 
 A média de uso dos apps pelos brasileiros é de 5.4 horas por dia, ficando a frente da Indonésia com 5.3 e da Índia com 4.9 horas por dia.
